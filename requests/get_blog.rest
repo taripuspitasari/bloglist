@@ -5,8 +5,9 @@ POST http://localhost:3001/api/blogs
 Content-Type: application/json
 
 {
-"title":"Mary Poppendieck", 
-"author":"tttt",
-"url":"hmmmmm",
-"likes": 1
+"title":"", 
+"author":"",
+"url":"",
+"likes": 1,
+"userId" : ""
 }
